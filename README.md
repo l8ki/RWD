@@ -1,6 +1,6 @@
-# RWD: in progress
+# RWD: in progress, start August 5th
 
-1. Recipe Page lab: Spanish fluency recipe -> in index.html published as Github Page
+1. Recipe Page lab: Spanish fluency recipe -> in index.html published as Github Page on August 7th
 
 ## Daily Spanish learning hobby: 
 
