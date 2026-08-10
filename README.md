@@ -1,6 +1,7 @@
 # Daily RWD: in progress, start August 5th
 
 1. Recipe Page lab: Spanish fluency recipe -> in index.html published as Github Page on August 7th
+2. Travel Agency lab: travel-agency.html on August 10th
 
 ## Daily Spanish learning hobby: 
 
