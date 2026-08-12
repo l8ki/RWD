@@ -6,10 +6,10 @@
 
 ## Daily Spanish learning hobby: 
 
-1. Daily lesson of Language Transfer Complete Spanish audio course: at Lesson 41/90, start July 1st 2026
-2. Daily Glossika Spanish Fluency 1 GSR method: at Day 11/104, start August 1st 2026
+1. Daily lesson of Language Transfer Complete Spanish audio course: at Lesson 42/90, start July 1st 2026
+2. Daily Glossika Spanish Fluency 1 GSR method: at Day 12/104, start August 1st 2026
 3. Daily Anki with GSR, start August 5th 2026
-4. The Great Course Spanish I in progress: at Lesson 7/30, start July 2026
+4. The Great Course Spanish I in progress: at Lesson 8/30, start July 2026
 
 ## Daily Japanese learning hobby:
 
