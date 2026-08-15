@@ -4,6 +4,7 @@
 2. Travel Agency lab: travel-agency.html on August 10th
 3. Player lab video-audio.html on August 11th
 4. Video compilation lab video.compile.html on August 13th
+5. Basic HTML review/quiz on August 15th
 
 ## Daily Spanish learning hobby:
 
