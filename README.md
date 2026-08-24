@@ -5,6 +5,7 @@
 3. Player lab video-audio.html on August 11th
 4. Video compilation lab video.compile.html on August 13th
 5. Basic HTML review/quiz on August 15th
+6. Event hub lab el 24 de agosto
 
 ## Daily Spanish learning hobby:
 
