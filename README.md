@@ -9,6 +9,7 @@
 7. Semantic HTML review/quiz el 25 de agosto
 8. Book catalog lab: book-catalog.html el 29 de agosto
 9. HTML tables and forms review/quiz el 30 de agosto
+10. Survey Form project: survey-form.html el 31 de agosto
 
 ## Daily Spanish learning hobby:
 
