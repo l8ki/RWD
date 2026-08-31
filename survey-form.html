@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<!-- l8ki | el 31 de agosto 2026 | for freeCodeCamp project -->
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <header>
+      <h1 id="title">Language Transfer Complete Spanish Course Survey Form</h1>
+      <p id="description">Have you tried our epic free 90 lessons Spanish course? Give us some feedback</p>
+    </header>
+    <main>
+      <form id="survey-form">
+        <fieldset>
+          <legend>Welcome, tell us who you are</legend>
+          <label for="name" id="name-label">Name</label>
+          <input id="name" type="text" name="name" placeholder="Enter your name" required>
+          <label for="email" id="email-label">Email</label>
+          <input id="email" type="email" name="email" placeholder="Enter valid email, yes, yours" required>
+        </fieldset>
+        <fieldset>
+          <legend>Pick a number from 1 to 10, 10 means epic</legend>
+          <label id="number-label" for="number">Rate the course</label>
+          <input id="number" name="rate" type="number" min="1" max="10" placeholder="10">
+        </fieldset>
+        <fieldset>
+          <legend>So, be honest, did you pause each time when there was a question?</legend>
+          <select id="dropdown">
+            <option>Yes</option>
+            <option>No</option>
+          </select>
+        </fieldset>
+        <fieldset>
+          <legend>Okay, one more time, just to be clear, did you pause as was suggested?</legend>
+          <label for="yes-radio">Yes</label>
+          <input id="yes-radio" type="radio" name="radio" value="Yes">
+          <label for="no-radio">No</label>
+          <input id="no-radio" type="radio" name="radio" value="No" checked>
+          </fieldset>
+          <fieldset>
+          <legend>How engaged you are to what we do? Choose all that apply</legend>
+          <label for="workshop">Attended offline workshop</label>
+          <input id="workshop" type="checkbox" name="workshop" value="workshop">
+          <label for="youtube">Subscribed to YouTube LanguageTransfer channel</label>
+          <input type="checkbox" id="youtube" name="youtube" value="youtube">
+          <label for="courses">Tried other LanguageTransfer courses</label>
+          <input id="courses" type="checkbox" name="courses" value="courses">
+          </fieldset>
+          <fieldset>
+            <legend>We have new courses soon, are you as hyped as we are?</legend>
+            <label for="upcoming">Please, notify me about upcoming LanguageTransfer courses like Japanese language course</label>
+            <input id="upcoming" type="checkbox" name="upcoming" value="upcoming">
+        </fieldset>
+        <fieldset>
+          <legend>Leave a comment if you have more feedback</legend>
+          <textarea>
+          </textarea>
+        
+        </fieldset>
+        <button id="submit" type="submit">Submit form</button>
+      </form>
+    </main>
+
+  </body>
+</html>
