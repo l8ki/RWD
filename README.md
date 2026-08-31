@@ -1,6 +1,6 @@
 # Daily RWD: in progress, start August 5th
 
-1. Recipe Page lab: Spanish fluency recipe -> in index.html published as Github Page on August 7th
+1. Recipe Page lab: recipe.html August 7th (used to be index.html)
 2. Travel Agency lab: travel-agency.html on August 10th
 3. Player lab video-audio.html on August 11th
 4. Video compilation lab video.compile.html on August 13th
@@ -9,7 +9,7 @@
 7. Semantic HTML review/quiz el 25 de agosto
 8. Book catalog lab: book-catalog.html el 29 de agosto
 9. HTML tables and forms review/quiz el 30 de agosto
-10. Survey Form project: survey-form.html el 31 de agosto
+10. Survey Form project: index.html ~~survey-form.html~~ el 31 de agosto (Github page)
 
 ## Daily Spanish learning hobby:
 
