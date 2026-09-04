@@ -1,4 +1,4 @@
-# Daily RWD: in progress, start August 5th
+# Daily RWD: in progress, start el 5 de agosto de 2026
 
 1. Recipe Page lab: recipe.html August 7th (used to be index.html)
 2. Travel Agency lab: travel-agency.html on August 10th
